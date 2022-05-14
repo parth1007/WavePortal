@@ -1,0 +1,11 @@
+client/node_modules
+SmartContract/node_modules
+SmartContract/.env
+SmartContract/coverage
+SmartContract/coverage.json
+SmartContract/typechain
+
+#Hardhat files
+SmartContract/cache
+SmartContract/artifacts
+SmartContract/hardhat.config.js
