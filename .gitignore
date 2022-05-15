@@ -9,3 +9,4 @@ SmartContract/typechain
 SmartContract/cache/
 SmartContract/artifacts/
 SmartContract/hardhat.config.js
+node_modules
